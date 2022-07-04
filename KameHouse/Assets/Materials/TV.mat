@@ -7,7 +7,7 @@ Material:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: Silla Comedor
+  m_Name: TV
   m_Shader: {fileID: 46, guid: 0000000000000000f000000000000000, type: 0}
   m_ShaderKeywords: _METALLICGLOSSMAP _NORMALMAP _PARALLAXMAP
   m_LightmapFlags: 4
@@ -20,7 +20,7 @@ Material:
     serializedVersion: 3
     m_TexEnvs:
     - _BumpMap:
-        m_Texture: {fileID: 2800000, guid: afbfe55e4a655b642b2d118a8d0bc5b3, type: 3}
+        m_Texture: {fileID: 2800000, guid: 6ad3abbb27e088e4da884ab729341cc6, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _DetailAlbedoMap:
@@ -40,19 +40,19 @@ Material:
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _MainTex:
-        m_Texture: {fileID: 2800000, guid: c22e9adb152153c4abd6e7c2339e2eac, type: 3}
+        m_Texture: {fileID: 2800000, guid: 3fb7bb05206caee428d3b7a54f5f20e5, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _MetallicGlossMap:
-        m_Texture: {fileID: 2800000, guid: 6e491b950cfd3a445938c865b8bba4a4, type: 3}
+        m_Texture: {fileID: 2800000, guid: 53a21e77a44f7324690109c90c736605, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _OcclusionMap:
-        m_Texture: {fileID: 2800000, guid: 812b940022c68c043a47e7e87340bb9c, type: 3}
+        m_Texture: {fileID: 2800000, guid: 786b806b74d2fb44cb0baab6ea9db6cd, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _ParallaxMap:
-        m_Texture: {fileID: 2800000, guid: 11d13ce79192a914b8f9a9d36f5a2073, type: 3}
+        m_Texture: {fileID: 2800000, guid: 3d4bdc6e47474444fae140f173eb0ae2, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     m_Floats:
